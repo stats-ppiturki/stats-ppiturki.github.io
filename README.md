@@ -1,2 +1,1 @@
-# stats-ppiturki.github.io
-stats-ppiturki.github.io
+# d3-map-ppi
